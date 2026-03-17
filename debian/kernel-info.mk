@@ -82,6 +82,9 @@ KERNEL_BOOTIMAGE_TAGS_OFFSET = 0x0bc08000
 # Specify boot image security patch level if needed
 KERNEL_BOOTIMAGE_PATCH_LEVEL = 2025-05
 
+# Specify boot image OS version if needed
+KERNEL_BOOTIMAGE_OS_VERSION = 12.0.0
+
 # Required for header version 2, ignore otherwise
 KERNEL_BOOTIMAGE_DTB_OFFSET = 0x0bc08000
 
